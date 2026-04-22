@@ -10,8 +10,6 @@ The main goal of the project is to automate the validation of educational web pr
 
 The framework is built using Cypress and is designed to simplify and standardize the evaluation process.
 
-–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-
 ## Objectives
 - Reduce manual effort in checking student web projects
 - Ensure consistent evaluation criteria

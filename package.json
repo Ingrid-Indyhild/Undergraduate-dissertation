@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "cypress": "^14.3.3",
+    "cypress-file-upload": "^5.0.8"
+  },
+  "scripts": {
+    "e2e:chrome": "cypress run --browser opera",
+    "start-framework": "node launcher.js",
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  }
+}
